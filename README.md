@@ -11,7 +11,7 @@ Om jeg vil skrive i *Kursiv* eller **BOLD** bruker jeg * på starten og slutten 
 
 # Hyperlinks
 
-[https://www.github.com/Jonahaleksander]<Jonah Aleksander> Her er min Github side for eksempel! for dette brukte
+<https://www.github.com/Jonahaleksander>["Jonah Aleksander"] Her er min Github side for eksempel! for dette brukte
 
 
 
