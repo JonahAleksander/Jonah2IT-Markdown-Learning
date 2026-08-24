@@ -10,8 +10,7 @@ For å bruke headers i ***TypeScript*** så kan du bruke # for H1, ## for H2, ##
 Om jeg vil skrive i *Kursiv* eller **BOLD** bruker jeg * på starten og slutten av teksten til å skrive i kursiv, derimot brukeg jeg ** på starten og slutten til å skrive i bold.
 
 # Hyperlinks
-
-<https://www.github.com/Jonahaleksander>["Jonah Aleksander"] Her er min Github side for eksempel! for dette brukte
+[Jonah sin Github](https://www.github.com/jonahaleksander/) Her er min Github side for eksempel! for dette brukte
 
 
 
