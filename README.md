@@ -13,4 +13,16 @@ Om jeg vil skrive i *Kursiv* eller **BOLD** bruker jeg * på starten og slutten 
 [Jonah sin Github](https://www.github.com/jonahaleksander/) <-- Her er min Github side for eksempel! for dette brukte [Tittel] (Lenke) (fjern mellomrom mellom tittel og lenke)
 
 
-
+## Nummer 4 - Lister
+- Dette 
+- Er
+- en
+- liste
+1. Dette 
+2. Er
+3. også
+4. en
+5. liste
+6. men
+7. med
+8. tall
