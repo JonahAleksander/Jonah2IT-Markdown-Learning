@@ -30,4 +30,10 @@ Om jeg vil skrive i *Kursiv* eller **BOLD** bruker jeg * på starten og slutten 
 
 ## Nummer 5 - Bilder
 
-![Linky Image](![This links to a image](image.png))
+Dette er en helt basic bilde: 
+
+![wordle](image.png)
+
+Dette er en klikkbar bilde som tar deg til wordle nettsida
+
+[![wordle](image.png)](https://www.wordle.com)
