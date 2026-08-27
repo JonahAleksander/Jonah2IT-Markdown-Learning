@@ -30,4 +30,4 @@ Om jeg vil skrive i *Kursiv* eller **BOLD** bruker jeg * på starten og slutten 
 
 ## Nummer 5 - Bilder
 
-![Linky Image](https://images-ext-1.discordapp.net/external/T4LGBHh8RF0-4NTvipLiy9DbUjDjTVVIxf6jgtTTWEI/https/static.klipy.com/ii/935d7ab9d8c6202580a668421940ec81/ea/e4/7yzydPjw.mp4)
+![Linky Image](![This links to a image](image.png))
