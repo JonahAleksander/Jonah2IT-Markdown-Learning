@@ -36,4 +36,4 @@ Dette er en helt basic bilde:
 
 Dette er en klikkbar bilde som tar deg til wordle nettsida
 
-[![wordle](image.png)](https://www.wordle.com)
+[![wordle](image.png)](https://www.nytimes.com/games/wordle/index.html)
