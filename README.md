@@ -1,7 +1,7 @@
 # Jonah2IT-Markdown-Learning
 Lærer Markdown - **Jonah 2IT (2026)**
 
-## Nummer 1- Headers
+## Nummer 1 - Headers
 
 For å bruke headers i ***TypeScript*** så kan du bruke # for H1, ## for H2, ### for H3.
 
@@ -26,3 +26,8 @@ Om jeg vil skrive i *Kursiv* eller **BOLD** bruker jeg * på starten og slutten 
 6. men
 7. med
 8. tall
+
+
+## Nummer 5 - Bilder
+
+![Linky Image](https://images-ext-1.discordapp.net/external/T4LGBHh8RF0-4NTvipLiy9DbUjDjTVVIxf6jgtTTWEI/https/static.klipy.com/ii/935d7ab9d8c6202580a668421940ec81/ea/e4/7yzydPjw.mp4)
